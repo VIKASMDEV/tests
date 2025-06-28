@@ -6,7 +6,7 @@ A sleek and modern landing page UI concept for the **Kawasaki Ninja 500 Sport Bi
 
 ## 🔥 Preview
 
-![Kawasaki Ninja 500 - Silver Variant](./images/ninja-silver.jpg)
+![Kawasaki Ninja 500 - Silver Variant](.[/images/ninja-silver.jpg](https://github.com/VIKASMDEV/tests/blob/af849722319eafa4fd247a7fe24a362f9fef1873/WhatsApp%20Image%202025-06-28%20at%2010.06.10%20AM.jpeg))
 ![Kawasaki Ninja 500 - Black Variant](./images/ninja-black.jpg)
 ![Kawasaki Ninja 500 - Green Variant](./images/ninja-green.jpg)
 
